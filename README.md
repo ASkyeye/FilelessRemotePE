@@ -6,4 +6,5 @@ Loading Fileless Remote PE from URI to memory with argument passing  and ETW pat
 As shown in the Image:    
 The command line of the Remote PE is exacly the same as this command line.   
 Run the Loader with the arguments of the Remote PE  
-The URI of the remote server comes then  
+The URI of the remote server comes then    
+I invited u to solve that URI passing as arg  
