@@ -133,6 +133,7 @@ int __getmainargs(int* _Argc, char*** _Argv, char*** _Env, int _useless_, void* 
     return 0;
 }
 
+// @aplyc1a/PEMemoryLoader
 char* GetNTHeaders(char* pe_buffer)
 {
     if (pe_buffer == NULL) return NULL;
