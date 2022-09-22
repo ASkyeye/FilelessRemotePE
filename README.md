@@ -13,6 +13,7 @@ i will improve it to accept this type : [http/https]://IPv4:[port]/PathToPE soon
 
 # updated
 [http/https]://IPv4:[port]/PathToPE   improved :
+https:/[IPv4]:[port]/PathToPE  also works
 
 ![image](https://user-images.githubusercontent.com/110354855/191820860-ed50d255-4b97-45f7-b76c-29fadf2dbc1e.png)
 ![image](https://user-images.githubusercontent.com/110354855/191820983-527a844b-8c57-411c-b674-ca32188a5e2d.png)
