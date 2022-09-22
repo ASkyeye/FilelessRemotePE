@@ -8,6 +8,6 @@ The command line of the Remote PE is exacly the same as this command line.
 Run the Loader with the arguments of the Remote PE  
 The URI of the remote server comes then    
 I invited u to solve that URI passing as arg  
-Unfortunately the current version , take URI in this form : https://domain.com/PathToPE  
+Unfortunately the current version , take URI in this form : https://domain.any/PathToPE  
 i will improve it to accept this type : [http]https://IPv4/PathToPE sooner .  
 
